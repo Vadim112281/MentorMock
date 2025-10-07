@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MentorMock.Monolit", "MentorMock.Monolit", "{B9BEFAAA-5BEA-4A30-A6A9-CC3A42D9BDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMock.Api", "MentorMock.Api\MentorMock.Api.csproj", "{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMock.Application", "MentorMock.Application\MentorMock.Application.csproj", "{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMock.Domain", "MentorMock.Domain\MentorMock.Domain.csproj", "{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorMock.Infrastructure", "MentorMock.Infrastructure\MentorMock.Infrastructure.csproj", "{3753A71D-DE01-4996-AB16-B723AF57CBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58} = {B9BEFAAA-5BEA-4A30-A6A9-CC3A42D9BDEA}
+		{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75} = {B9BEFAAA-5BEA-4A30-A6A9-CC3A42D9BDEA}
+		{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB} = {B9BEFAAA-5BEA-4A30-A6A9-CC3A42D9BDEA}
+		{3753A71D-DE01-4996-AB16-B723AF57CBDF} = {B9BEFAAA-5BEA-4A30-A6A9-CC3A42D9BDEA}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BEC231-78E8-4FC3-8E63-ABB8D78A6A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CBBEF4-4BFC-4DF8-8126-8AFD3DC37A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D13E5E-35EF-46F1-A98C-38D2E43D9ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3753A71D-DE01-4996-AB16-B723AF57CBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3753A71D-DE01-4996-AB16-B723AF57CBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3753A71D-DE01-4996-AB16-B723AF57CBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3753A71D-DE01-4996-AB16-B723AF57CBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

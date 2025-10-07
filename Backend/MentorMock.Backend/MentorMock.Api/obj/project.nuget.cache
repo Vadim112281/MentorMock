@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+/ebiRjU0w=",
+  "success": true,
+  "projectFilePath": "/Users/vadimmatok/MentorMock/Backend/MentorMock.Backend/MentorMock.Api/MentorMock.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vadimmatok/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/vadimmatok/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
